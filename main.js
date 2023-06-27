@@ -19,3 +19,5 @@ iPhone.addEventListener("click", function (event) {
         clickTarget.classList.remove("active")
     }
 })
+
+console.log()
